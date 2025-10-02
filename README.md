@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0x5c-0x200f (Yahav N. Baruch Hoffmann)
+- 👋 Hi, I’m @0x5c-0x200f
 - 👀 I’m interested in Software Security , Blockchain and Research
 - 🌱 I’m currently learning Arabic litreture, Finance and Political science
 - 💞️ I’m looking to collaborate on Blockchain Technologies, Security vulnerabilities and Research 
